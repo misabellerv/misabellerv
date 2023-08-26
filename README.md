@@ -1,7 +1,6 @@
 <img align="right" height="200" style="margin-left: 25px" src="https://i.imgur.com/xwunkfb.gif"/>
 
 # Hi, I am Isabelle! 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=misabellerv.repoName) [![GitHub followers](https://img.shields.io/github/followers/misabellerv.svg?style=social&label=Follow)](https://github.com/misabellerv?tab=followers)<br/>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
