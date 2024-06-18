@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-I am **Isabelle Melo**.
+### Hi there 👋 I am Isabelle
 
 - Machine learning & Deep learning Specialist
 - Computer Vision Developer
@@ -9,6 +6,9 @@ I am **Isabelle Melo**.
 - Work experience with object detection/tracking (Faster-RCNN, YOLOS, DeepSORT, HSV-space, Background subtraction, ViT) and segmentation (Mask-RCNN, HSV-space)
 - Work experience with image denoising (FCNN, U-Net, SRGEN, GAN, ViT, Adaptative filters)
 - Work experience with Data science (pré-processing techniques, Machine learning algorithms, post-processing)
+- Bsc in Physics
+- Msc in Computer Vision
+- MBA in AI & Computer Vision
 
 ## 🤝 Connect with me:
 
