@@ -3,19 +3,16 @@
 
 I am **Isabelle Melo**.
 
-- :sparkles: Machine learning & Deep learning Specialist
-- :camera: Computer Vision Developer
-- :mag: Data driven solutions
-- :rocket: Work experience with object detection/tracking (Faster-RCNN, YOLOS, DeepSORT, HSV-space, Background subtraction, ViT) and segmentation (Mask-RCNN, HSV-space)
-- :triangular_flag_on_post: Work experience with image denoising (FCNN, U-Net, SRGEN, GAN, ViT, Adaptative filters)
-- :electron: Work experience with Data science (pré-processing techniques, Machine learning algorithms, post-processing)
+- Machine learning & Deep learning Specialist
+- Computer Vision Developer
+- Data driven solutions
+- Work experience with object detection/tracking (Faster-RCNN, YOLOS, DeepSORT, HSV-space, Background subtraction, ViT) and segmentation (Mask-RCNN, HSV-space)
+- Work experience with image denoising (FCNN, U-Net, SRGEN, GAN, ViT, Adaptative filters)
+- Work experience with Data science (pré-processing techniques, Machine learning algorithms, post-processing)
 
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/misabellerv/"><img align="left" src="https://raw.githubusercontent.com/misabellerv/misabellerv/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Isabelle Melo | LinkedIn" width="35px"/></a>
-</br>
-</br>
-
 
 ## 💼 Technical Skills
 
