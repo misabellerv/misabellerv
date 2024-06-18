@@ -12,7 +12,7 @@
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/misabellerv/"><img align="left" src="https://raw.githubusercontent.com/misabellerv/misabellerv/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Isabelle Melo | LinkedIn" width="35px"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misabellerv)
 
 ## 💼 Technical Skills
 
