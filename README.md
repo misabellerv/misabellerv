@@ -41,5 +41,5 @@
 
 [![Isabelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misabellerv&show_icons=true&theme=tokyonight)](https://github.com/misabellerv)
 
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misabellerv&layout=compact&hide=html,css&langs_count=8&card_width=300&theme=tokyonight)](https://github.com/misabellerv)
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misabellerv&layout=compact&hide=html,css&theme=tokyonight)](https://github.com/misabellerv)
 
