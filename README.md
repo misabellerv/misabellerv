@@ -1,4 +1,4 @@
-### Hi there 👋 I am Isabelle
+## :alien: About me 
 
 - Machine learning & Deep learning Specialist
 - Computer Vision Developer
