@@ -39,6 +39,7 @@
 
 ## 📈 GitHub Stats 
 
-[![Isabelle's Github stats](https://github-readme-stats.vercel.app/api?username=misabellerv)](https://github.com/misabellerv)
+[![Isabelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misabellerv&show_icons=true&theme=tokyonight)](https://github.com/misabellerv)
 
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misabellerv&layout=compact&title=Used%20Languages&hide=html,css&card_width=300)](https://github.com/misabellerv)
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misabellerv&layout=compact&hide=html,css&langs_count=8&card_width=300&theme=tokyonight)](https://github.com/misabellerv)
+
